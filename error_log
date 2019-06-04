@@ -1,0 +1,4 @@
+[15-May-2019 09:40:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hostingadmin/globalsurveyz.com/Free/v1/database.php on line 6
+[15-May-2019 09:40:35 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hostingadmin/globalsurveyz.com/Free/v1/database.php on line 8
+[15-May-2019 09:40:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hostingadmin/globalsurveyz.com/Free/v1/database.php on line 6
+[15-May-2019 09:40:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/hostingadmin/globalsurveyz.com/Free/v1/database.php on line 8

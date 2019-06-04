@@ -1,0 +1,32 @@
+[09-May-2019 16:44:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/update_url.php on line 50
+[09-May-2019 16:45:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/update_url.php on line 50
+[09-May-2019 16:46:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/update_url.php on line 50
+[09-May-2019 16:46:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/update_url.php on line 50
+[09-May-2019 19:05:01 UTC] PHP Parse error:  syntax error, unexpected 'update' (T_STRING), expecting ',' or ';' in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/update_url.php on line 33
+[21-May-2019 10:26:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:26:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:26:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:26:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:27:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:27:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:27:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:28:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:28:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:28:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 91
+[21-May-2019 10:30:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 89
+[21-May-2019 10:30:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 89
+[21-May-2019 10:31:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 89
+[21-May-2019 10:31:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 89
+[21-May-2019 10:38:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hostingadmin/globalsurveyz.com/Free/v1/admin/layout-top.php:1) in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 28
+[23-May-2019 07:12:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php:104
+Stack trace:
+#0 {main}
+  thrown in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 104
+[23-May-2019 07:14:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php:106
+Stack trace:
+#0 {main}
+  thrown in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 106
+[23-May-2019 07:17:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/hostingadmin/globalsurveyz.com/Free/v1/admin/add_products.php on line 101
